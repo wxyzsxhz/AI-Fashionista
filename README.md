@@ -31,4 +31,4 @@ AI Fashionista is a web-based fashion recommendation system that uses Prolog and
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/wxyzsxhz/AI-Fashionista.git
+   https://github.com/wxyzsxhz/AI-Fashionista
