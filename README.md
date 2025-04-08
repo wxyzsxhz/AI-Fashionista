@@ -32,3 +32,12 @@ AI Fashionista is a web-based fashion recommendation system that uses Prolog and
 1. Clone this repository:
    ```bash
    https://github.com/wxyzsxhz/AI-Fashionista
+
+2. Move the folder to your local web server root directory (e.g., htdocs if using XAMPP).
+
+3. Make sure you have:
+   - PHP installed
+   - SWI-Prolog installed (for logic queries)
+   - A running local server (like XAMPP, WAMP)
+
+4. Open http://localhost/AI-Fashionista/index.php in your browser.
